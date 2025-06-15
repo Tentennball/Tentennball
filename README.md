@@ -1,19 +1,15 @@
 ![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Welcome%20to%20my%20GitHub%20Profile&fontSize=40&animation=twinkling)
 
 ## 🏆 Activity
-- 한이음 ICT 멘토링 2022, 2023 공모전 참여
-- ICT ACK 2022 한국정보처리학회장상 수상
+- 한이음 ICT ACK 2022 한국정보처리학회장상 수상
 - 영남대학교 멋쟁이사자처럼 12기 (2024. 03. ~ 2024. 08.)
 - 영남대학교 멋쟁이사자처럼 12기 해커톤 본선진출, 5위(5/300)
 - 벤처 스타트업 산업체 문제해결 아이디어 경진대회 대상 수상
-- 말달리자 컴퍼니 백엔드 개발자 (인프라 구축, SpringBoot 백엔드 개발 보조, 2024. 08. 08 ~)
+- 말달리자 컴퍼니 백엔드 개발자 (인프라, SpringBoot 백엔드 개발, 2024. 08. 08 ~)
 ## 💻 Projects
-
-### 👥 Team
 - Gibble - BE (2024. 07 ~ 2024.08) [⤴](https://github.com/Likelion-YeungNam-Univ/12th-gibble-was)
-- Coordikitty - BE (2024. 02 ~ ) [⤴](https://github.com/Coordikitty/coordikitty-BE)
+- Coordikitty - BE (2024. 02 ~ 2024. 10) [⤴](https://github.com/Coordikitty/coordikitty-BE)
 ## 😎 Contact Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hoo_nisxd)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tenteniball@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@lth8905)
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://tentenball.tistory.com)

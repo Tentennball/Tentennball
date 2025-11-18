@@ -1,5 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Welcome%20to%20my%20GitHub%20Profile&fontSize=40&animation=twinkling)
-
 ## 🏆 Activity
 - 한이음 ICT ACK 2022 한국정보처리학회장상 수상
 - 영남대학교 멋쟁이사자처럼 12기 (2024. 03. ~ 2024. 08.)
@@ -21,7 +19,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GitHubActions](https://img.shields.io/badge/GitHubActions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira%20Software-0052CC?style=flat-square&logo=jira&logoColor=white)
 

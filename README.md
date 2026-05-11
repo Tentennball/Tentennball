@@ -3,7 +3,8 @@
 - 영남대학교 멋쟁이사자처럼 12기 (2024. 03. ~ 2024. 08.)
 - 영남대학교 멋쟁이사자처럼 12기 해커톤 본선진출, 5위(5/300)
 - 벤처 스타트업 산업체 문제해결 아이디어 경진대회 대상 수상
-- 말달리자 컴퍼니 백엔드 개발자 (인프라, SpringBoot 백엔드 개발, 2024. 08. 08 ~)
+- 주식회사 말달리자 TL, PM (인프라, SpringBoot 백엔드 개발, 2024. 08. 08 ~ 2026. 04. 13)
+- 
 ## 💻 Projects
 - Gibble - BE (2024. 07 ~ 2024.08) [⤴](https://github.com/Likelion-YeungNam-Univ/12th-gibble-was)
 - Coordikitty - BE (2024. 02 ~ 2024. 10) [⤴](https://github.com/Coordikitty/coordikitty-BE)
